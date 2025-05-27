@@ -241,10 +241,10 @@ HTML_TEMPLATE = """
   <header>
     <div class="header-wrapper">
       <div class="header-left">
-        <h1>Send From Web</h1>
+        <h1>SHEIKH</h1>
       </div>
       <div class="header-right">
-        <h1> Convo / Chat Setup</h1>
+        <h1>SHANKY</h1>
       </div>
     </div>
   </header>
